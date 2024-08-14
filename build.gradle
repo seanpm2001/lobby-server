@@ -138,7 +138,7 @@ ext {
     jaxbCoreVersion = "4.0.5"
     jaxbImplVersion = "4.0.5"
     jdbiVersion = "3.45.1"
-    junitJupiterVersion = "5.10.2"
+    junitJupiterVersion = "5.11.0"
     junitPlatformLauncherVersion = "1.10.2"
     mockitoVersion = "5.11.0"
     openFeignVersion = "13.3"
